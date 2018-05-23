@@ -35,6 +35,6 @@ To hit the api routes, attach the following to the end of this url:
 * PUT: 
   * /api/:id#
     * allows editing of an entry. Insert the id# in ":id#", (eg, when id = 10, use: /api/10). Please provide name and age as above
-*  DELETE: 
+* DELETE: 
   * /api/:id#
     * acts the same as post, provide an id# to delete
